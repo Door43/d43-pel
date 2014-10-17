@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pel:home|Door43 (pel)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pel|d43-pel repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pel/archive/master.zip|d43-pel.zip]]
+
+**Recent Changes**
+{{changes>ns = pel}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pel|Ethnologue data]]
+
